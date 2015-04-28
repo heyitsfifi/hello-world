@@ -1,3 +1,3 @@
 # hello-world
 My first rep on Github
-I love :pizza:
+I love :pizza: :heart:
